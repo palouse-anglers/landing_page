@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: GISHub.qmd
+        text: GIS Hub
 
 format:
   html:

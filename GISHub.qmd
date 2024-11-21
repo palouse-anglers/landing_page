@@ -1,0 +1,17 @@
+---
+title: ""
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# Welcome to the GIS hub!  
+
+```{r}
+
+source("DO/spaces.R")
+
+gis_hub_datatable
+
+```
