@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://palouse-anglers.github.io/landing_page/index.html</loc>
-    <lastmod>2024-11-20T02:31:05.727Z</lastmod>
+    <loc>https://palouse-anglers.github.io/landing_page/GISHub.html</loc>
+    <lastmod>2024-11-21T21:30:43.546Z</lastmod>
   </url>
   <url>
     <loc>https://palouse-anglers.github.io/landing_page/about.html</loc>
-    <lastmod>2024-11-20T02:31:05.719Z</lastmod>
+    <lastmod>2024-11-21T21:30:43.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://palouse-anglers.github.io/landing_page/index.html</loc>
+    <lastmod>2024-11-21T21:30:43.558Z</lastmod>
   </url>
 </urlset>
